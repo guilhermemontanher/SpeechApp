@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SpeechApp</string>
+    <string name="action_settings">Opções</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="speech_prompt">Diga alguma coisa&#8230;</string>
+    <string name="speech_not_supported">Desculpe! Seu dispositivo não suporta comandos de vóz</string>
+    <string name="tap_on_mic">Pressione o microfone para falar</string>
+</resources>
