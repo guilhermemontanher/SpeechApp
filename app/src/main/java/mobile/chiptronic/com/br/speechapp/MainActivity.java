@@ -35,6 +35,8 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        Toast.makeText(this, "Bem Vindo! =)", Toast.LENGTH_SHORT).show();
+
     }
 
     /**
